@@ -22,6 +22,6 @@ and add the other related assets to main assets "Taxes and Fees" related assets.
 
 #Final Result :
 
-![alt text](https://github.com/izaki93/custom-asset-display/blob/master/assets-screen-shoot.png)
+![alt text](https://github.com/izaki93/custom-asset-display/blob/master/assets-screen-shoot.gif)
 
 
