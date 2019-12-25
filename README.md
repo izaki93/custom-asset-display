@@ -5,7 +5,8 @@ Liferay 7.2 module display Assets(WebContent) with it's related assets by TagNam
 
 1- login as Administrator and go to Your-Site-Name > Content & Data > Web Content.
 
-2-Add the following web Contents :
+2-Add the following web Contents
+
                       A- Main Assets :
                       create two Web Content in Liferay eg(Family , Taxes and Fees) with tageName "dawlati-services"
                       these web content represent the Main Asset as in screen shoot.
