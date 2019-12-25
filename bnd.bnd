@@ -1,0 +1,4 @@
+Bundle-Name: custom-asset-display
+Bundle-SymbolicName: lb.gov.dawlati.customassets
+Bundle-Version: 1.0.0
+Export-Package: lb.gov.dawlati.customassets.constants
